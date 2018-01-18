@@ -1,0 +1,9 @@
+Building Zcashdarklite
+
+See doc/readme-qt.rst for instructions on building Zcashdarklite-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Zcashdarklite.
+
+See doc/build-*.txt for instructions on building zcashdarklited,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zcashdarklite.
